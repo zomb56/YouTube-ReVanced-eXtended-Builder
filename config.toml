@@ -28,7 +28,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 [Music-arm64]
 enabled = true
 build-mode = "apk"
-app-name = "YT Music"
+app-name = "Music"
 rv-brand = "rvx-red_@youtube_revanced5"
 excluded-patches = ""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
