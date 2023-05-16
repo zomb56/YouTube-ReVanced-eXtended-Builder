@@ -17,6 +17,7 @@ module-prop-name = "ytrv-magisk"
 
 [YouTube-Extended]
 app-name = "YouTube"
+version = "18.18.36"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 rv-brand = "rvx-red_@youtube_revanced5"
