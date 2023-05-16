@@ -24,8 +24,8 @@ excluded-patches = ""
 included-patches = ""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
-[YouTube-Extended]
-app-name = "YouTube blu"
+[YouTube-Extended-BLU]
+app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 rv-brand = "YouTube RVX"
